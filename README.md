@@ -7,4 +7,4 @@ Task 2 was done by me mostly, i did use AI engines to debug it in certain places
 ImageMatchX:
 I could only do 1.1 and I treated this more as an exploration task as i did go into and read the documentations of openCv and num py libraries. However they were still pretty hard to implement. So for this one it consisted majorly of me taking help from already available similar projects and chatGPT, quite a short code but it was a good learn.
 
-Overall i still think I need to get my ropes up with python but i enjoyed the task overall and they were a fun few weeks :)
+Overall i still think I need to get my ropes up with python but i enjoyed the task overall and they were a fun few weeks of :)
